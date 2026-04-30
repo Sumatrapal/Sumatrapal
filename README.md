@@ -6,8 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=F7F7F7&center=true&vCenter=true&lines=Building+real+world+projects;CineMuse+•+VedaSphere+•+ClearWithin;Consistency+%3D+Growth" />
 </p>
 
----
-
 ## Profile
 
 Computer Science student focused on full stack development and problem solving.  
@@ -60,7 +58,7 @@ Git • GitHub • VS Code • SQLite
 
 ---
 
-## 🚀 Projects
+##  Projects
 
 ###  CineMuse
 
