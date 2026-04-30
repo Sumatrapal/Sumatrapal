@@ -118,11 +118,5 @@ A desktop-based application for managing daily expenses.
 
 ---
 
-
-###  GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=Sumatrapal&show_icons=true&theme=tokyonight)
-
----
-
 ###  Vision
 > Building products that actually help people, not just projects.
